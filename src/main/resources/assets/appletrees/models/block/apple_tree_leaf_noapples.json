@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "appletrees:blocks/apple_tree_leaf_noapples"
+  }
+}

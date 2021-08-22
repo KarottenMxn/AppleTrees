@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=1": { "model": "appletrees:block/apple_tree_leaf_noapples" },
+
+    "age=2": { "model": "appletrees:block/apple_tree_leaf_noapples" },
+    "age=3": { "model": "appletrees:block/apple_tree_leaf_hasapples" }
+  }
+}
